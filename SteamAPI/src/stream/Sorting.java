@@ -1,4 +1,4 @@
-package Steam;
+package stream;
 import java.util.*;
 class Person {
     int age;
